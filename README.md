@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @robertjakob
-- 👀 I’m interested in data science, machine learning, and user churn prediction
-- 🌱 I’m looking to collaborate in building user churn prediction models, especially in health applications (where we refer to "user churn" as a "dropout")
+- 👀 I’m interested in data science, machine learning, and reinforcement learning
+- 🌱 I’m looking to collaborate in building user churn prediction and prevention models, especially in health applications (where we refer to "user churn" as a "dropout")
 - 📫 You can contact me via [robertjakob.com](https://robertjakob.com)
