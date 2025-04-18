@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @robertjakob
-- 👀 I’m interested in data science, machine learning, and reinforcement learning
+- 👀 I’m interested in data science, ML, RL, and agents
 - 📫 You can contact me via [robertjakob.com](https://robertjakob.com)
