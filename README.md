@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @robertjakob, I’m interested in data science, ML, RL, and agents.
-- 🎧 Spotify Work Playlists: [T2B.v1 (Slow)](https://open.spotify.com/playlist/7kiFt9ZeVeLLsmNB3gMM7J?si=6f2d04bcfb6d4e35) & [T2B.v2 (Fast)](https://open.spotify.com/playlist/3wEUCfV7an0nXnaQnbZU0h?si=0379efeadd544d15)
+- 🎧 Spotify Work Playlists: [T2B.v1 (Slow)](https://open.spotify.com/playlist/7kiFt9ZeVeLLsmNB3gMM7J?si=6f2d04bcfb6d4e35) & [T2B.v2 (Fast)](https://open.spotify.com/playlist/3wEUCfV7an0nXnaQnbZU0h?si=0379efeadd544d15) & [T2B.v3 (Binaural)]([https://open.spotify.com/playlist/3wEUCfV7an0nXnaQnbZU0h?si=0379efeadd544d15](https://open.spotify.com/playlist/5r0p2OK529SZd6dq9j5IwX?si=8a360301a20f42e0&pt=1e571bea4760d8ae96e72c9b0a32e38d))
 - 📫 You can contact me via [robertjakob.com](https://robertjakob.com)
-
